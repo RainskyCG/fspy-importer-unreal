@@ -1,0 +1,26 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0.0",
+  "FriendlyName": "fSpy Importer",
+  "Description": "Imports fSpy camera solve files into the Unreal Editor as cine cameras with post-process reference images.",
+  "Category": "Editor",
+  "CreatedBy": "RainskyCG",
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "IsExperimentalVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "fspy_importer",
+      "Type": "Editor",
+      "LoadingPhase": "Default",
+      "PlatformAllowList": [
+        "Win64"
+      ]
+    }
+  ],
+  "SupportedTargetPlatforms": [
+    "Win64"
+  ]
+}
