@@ -3,6 +3,7 @@ Intermediate/
 Saved/
 DerivedDataCache/
 .vs/
+/.release/
 *.sln
 *.opensdf
 *.sdf
